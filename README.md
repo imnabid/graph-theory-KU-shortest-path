@@ -16,10 +16,10 @@
 #### Showing Minimum Spanning Tree:
 <img src="demo/mst.png" width="700px"/>
 
-#### Node Search:
+#### Searching a Node:
 <img src="demo/searching.png" width="700px"/>
 
-#### Showing Shortest Path between Department of Computer Science and Engineering and Department of Pharmacy
+#### Showing Shortest Path between Department of Computer Science and Engineering and Department of Pharmacy:
 <img src="demo/shortest_path.png" width="700px"/>
 
 
