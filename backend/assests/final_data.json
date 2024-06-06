@@ -1,0 +1,2201 @@
+[
+    {
+        "id": 1,
+        "altitude": 1495.55,
+        "lat": 27.6206,
+        "lon": 85.5383,
+        "neighbours": [
+            {
+                "id": 2,
+                "cost": 42
+            },
+            {
+                "id": 87,
+                "cost": 31
+            }
+        ],
+        "labels": [
+            "KU Gate",
+            "ATM"
+        ]
+    },
+    {
+        "id": 2,
+        "altitude": 1498.4,
+        "lat": 27.620273282414246,
+        "lon": 85.53807556629182,
+        "neighbours": [
+            {
+                "id": 1,
+                "cost": 42
+            },
+            {
+                "id": 3,
+                "cost": 24
+            },
+            {
+                "id": 5,
+                "cost": 47
+            },
+            {
+                "id": 48,
+                "cost": 74
+            },
+            {
+                "id": 82,
+                "cost": 41
+            },
+            {
+                "id": 87,
+                "cost": 23
+            },
+            {
+                "id": 81,
+                "cost": 45
+            }
+        ],
+        "labels": [
+            "Pelton Chowk"
+        ]
+    },
+    {
+        "id": 3,
+        "altitude": 1498.44,
+        "lat": 27.62024001080182,
+        "lon": 85.53831696510316,
+        "neighbours": [
+            {
+                "id": 2,
+                "cost": 24
+            },
+            {
+                "id": 4,
+                "cost": 26
+            },
+            {
+                "id": 48,
+                "cost": 50
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 4,
+        "altitude": 1504.24,
+        "lat": 27.62003206299507,
+        "lon": 85.53843900561333,
+        "neighbours": [
+            {
+                "id": 50,
+                "cost": 23
+            },
+            {
+                "id": 5,
+                "cost": 19
+            },
+            {
+                "id": 3,
+                "cost": 26
+            }
+        ],
+        "labels": [
+            "Pokhari",
+            "Saraswati Temple"
+        ]
+    },
+    {
+        "id": 5,
+        "altitude": 1508.51,
+        "lat": 27.619904917570093,
+        "lon": 85.5383062362671,
+        "neighbours": [
+            {
+                "id": 4,
+                "cost": 19
+            },
+            {
+                "id": 2,
+                "cost": 47
+            },
+            {
+                "id": 82,
+                "cost": 23
+            },
+            {
+                "id": 52,
+                "cost": 32
+            },
+            {
+                "id": 6,
+                "cost": 31
+            },
+            {
+                "id": 7,
+                "cost": 39
+            },
+            {
+                "id": 53,
+                "cost": 40
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 6,
+        "altitude": 1510.46,
+        "lat": 27.619816985133784,
+        "lon": 85.53861200809479,
+        "neighbours": [
+            {
+                "id": 7,
+                "cost": 21
+            },
+            {
+                "id": 5,
+                "cost": 31
+            },
+            {
+                "id": 52,
+                "cost": 30
+            },
+            {
+                "id": 8,
+                "cost": 53
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 7,
+        "altitude": 1513.19,
+        "lat": 27.61962923726314,
+        "lon": 85.53854763507843,
+        "neighbours": [
+            {
+                "id": 6,
+                "cost": 21
+            },
+            {
+                "id": 52,
+                "cost": 15
+            },
+            {
+                "id": 5,
+                "cost": 39
+            }
+        ],
+        "labels": [
+            "Administration Block",
+            "Main Building",
+            "KU Vice Chancellor Office",
+            "VC Office"
+        ]
+    },
+    {
+        "id": 8,
+        "altitude": 1511.04,
+        "lat": 27.619560317077948,
+        "lon": 85.53907334804536,
+        "neighbours": [
+            {
+                "id": 6,
+                "cost": 53
+            },
+            {
+                "id": 9,
+                "cost": 17
+            },
+            {
+                "id": 17,
+                "cost": 36
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 9,
+        "altitude": 1511.3,
+        "lat": 27.61941297032963,
+        "lon": 85.53914844989778,
+        "neighbours": [
+            {
+                "id": 8,
+                "cost": 17
+            },
+            {
+                "id": 45,
+                "cost": 34
+            },
+            {
+                "id": 10,
+                "cost": 9
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 10,
+        "altitude": 1512.03,
+        "lat": 27.619329790626104,
+        "lon": 85.53912162780762,
+        "neighbours": [
+            {
+                "id": 9,
+                "cost": 9
+            },
+            {
+                "id": 11,
+                "cost": 19
+            },
+            {
+                "id": 13,
+                "cost": 18
+            },
+            {
+                "id": 14,
+                "cost": 30
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 11,
+        "altitude": 1518.1,
+        "lat": 27.619246610859403,
+        "lon": 85.53896471858027,
+        "neighbours": [
+            {
+                "id": 10,
+                "cost": 19
+            },
+            {
+                "id": 12,
+                "cost": 15
+            }
+        ],
+        "labels": [
+            "KU Canteen",
+            "Executive Dining Hall"
+        ]
+    },
+    {
+        "id": 12,
+        "altitude": 1517.78,
+        "lat": 27.619112334816954,
+        "lon": 85.53893387317657,
+        "neighbours": [
+            {
+                "id": 11,
+                "cost": 15
+            },
+            {
+                "id": 14,
+                "cost": 12
+            },
+            {
+                "id": 15,
+                "cost": 19
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 13,
+        "altitude": 1514.63,
+        "lat": 27.61916105446199,
+        "lon": 85.53912699222566,
+        "neighbours": [
+            {
+                "id": 10,
+                "cost": 18
+            },
+            {
+                "id": 14,
+                "cost": 13
+            },
+            {
+                "id": 28,
+                "cost": 74
+            },
+            {
+                "id": 42,
+                "cost": 32
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 14,
+        "altitude": 1514.4,
+        "lat": 27.61906836828937,
+        "lon": 85.53903982043269,
+        "neighbours": [
+            {
+                "id": 10,
+                "cost": 30
+            },
+            {
+                "id": 12,
+                "cost": 12
+            },
+            {
+                "id": 13,
+                "cost": 13
+            },
+            {
+                "id": 28,
+                "cost": 62
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 15,
+        "altitude": 1519.48,
+        "lat": 27.61913728878417,
+        "lon": 85.53873538970947,
+        "neighbours": [
+            {
+                "id": 12,
+                "cost": 19
+            },
+            {
+                "id": 16,
+                "cost": 24
+            },
+            {
+                "id": 22,
+                "cost": 17
+            },
+            {
+                "id": 24,
+                "cost": 22
+            },
+            {
+                "id": 20,
+                "cost": 39
+            },
+            {
+                "id": 19,
+                "cost": 50
+            },
+            {
+                "id": 18,
+                "cost": 43
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 16,
+        "altitude": 1518.03,
+        "lat": 27.61935593282545,
+        "lon": 85.53875148296358,
+        "neighbours": [
+            {
+                "id": 15,
+                "cost": 24
+            },
+            {
+                "id": 17,
+                "cost": 15
+            },
+            {
+                "id": 20,
+                "cost": 36
+            },
+            {
+                "id": 19,
+                "cost": 37
+            },
+            {
+                "id": 18,
+                "cost": 25
+            },
+            {
+                "id": 21,
+                "cost": 44
+            },
+            {
+                "id": 22,
+                "cost": 34
+            }
+        ],
+        "labels": [
+            "CV Raman Auditorium"
+        ]
+    },
+    {
+        "id": 17,
+        "altitude": 1517.31,
+        "lat": 27.619486643728557,
+        "lon": 85.53871393203735,
+        "neighbours": [
+            {
+                "id": 16,
+                "cost": 15
+            },
+            {
+                "id": 18,
+                "cost": 16
+            },
+            {
+                "id": 20,
+                "cost": 38
+            },
+            {
+                "id": 21,
+                "cost": 52
+            },
+            {
+                "id": 22,
+                "cost": 45
+            },
+            {
+                "id": 8,
+                "cost": 36
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 18,
+        "altitude": 1518.75,
+        "lat": 27.619491396849394,
+        "lon": 85.53854763507843,
+        "neighbours": [
+            {
+                "id": 17,
+                "cost": 16
+            },
+            {
+                "id": 19,
+                "cost": 15
+            },
+            {
+                "id": 16,
+                "cost": 25
+            },
+            {
+                "id": 20,
+                "cost": 26
+            },
+            {
+                "id": 15,
+                "cost": 43
+            },
+            {
+                "id": 22,
+                "cost": 43
+            },
+            {
+                "id": 21,
+                "cost": 44
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 19,
+        "altitude": 1518.04,
+        "lat": 27.619472384364904,
+        "lon": 85.53838938474657,
+        "neighbours": [
+            {
+                "id": 18,
+                "cost": 15
+            },
+            {
+                "id": 20,
+                "cost": 18
+            },
+            {
+                "id": 52,
+                "cost": 17
+            },
+            {
+                "id": 16,
+                "cost": 37
+            },
+            {
+                "id": 15,
+                "cost": 50
+            },
+            {
+                "id": 22,
+                "cost": 44
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 20,
+        "altitude": 1517.84,
+        "lat": 27.6193036484205,
+        "lon": 85.53838402032854,
+        "neighbours": [
+            {
+                "id": 54,
+                "cost": 11
+            },
+            {
+                "id": 19,
+                "cost": 18
+            },
+            {
+                "id": 21,
+                "cost": 20
+            },
+            {
+                "id": 22,
+                "cost": 28
+            },
+            {
+                "id": 15,
+                "cost": 39
+            },
+            {
+                "id": 18,
+                "cost": 26
+            },
+            {
+                "id": 16,
+                "cost": 36
+            },
+            {
+                "id": 17,
+                "cost": 38
+            }
+        ],
+        "labels": [
+            "Library Lawn"
+        ]
+    },
+    {
+        "id": 21,
+        "altitude": 1517.35,
+        "lat": 27.619117087954,
+        "lon": 85.53838536143303,
+        "neighbours": [
+            {
+                "id": 22,
+                "cost": 17
+            },
+            {
+                "id": 20,
+                "cost": 20
+            },
+            {
+                "id": 23,
+                "cost": 36
+            },
+            {
+                "id": 16,
+                "cost": 44
+            },
+            {
+                "id": 17,
+                "cost": 52
+            },
+            {
+                "id": 18,
+                "cost": 44
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 22,
+        "altitude": 1517.08,
+        "lat": 27.619099263688963,
+        "lon": 85.53856372833253,
+        "neighbours": [
+            {
+                "id": 15,
+                "cost": 17
+            },
+            {
+                "id": 21,
+                "cost": 17
+            },
+            {
+                "id": 16,
+                "cost": 34
+            },
+            {
+                "id": 17,
+                "cost": 45
+            },
+            {
+                "id": 18,
+                "cost": 43
+            },
+            {
+                "id": 19,
+                "cost": 44
+            },
+            {
+                "id": 20,
+                "cost": 28
+            }
+        ],
+        "labels": [
+            "KU Library"
+        ]
+    },
+    {
+        "id": 23,
+        "altitude": 1520.64,
+        "lat": 27.618791497588635,
+        "lon": 85.53838536143303,
+        "neighbours": [
+            {
+                "id": 21,
+                "cost": 36
+            },
+            {
+                "id": 25,
+                "cost": 32
+            },
+            {
+                "id": 27,
+                "cost": 28
+            },
+            {
+                "id": 26,
+                "cost": 37
+            },
+            {
+                "id": 28,
+                "cost": 49
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 24,
+        "altitude": 1515.04,
+        "lat": 27.61894241003164,
+        "lon": 85.53879439830781,
+        "neighbours": [
+            {
+                "id": 15,
+                "cost": 22
+            },
+            {
+                "id": 25,
+                "cost": 19
+            }
+        ],
+        "labels": [
+            "Block: 03",
+            "Container",
+            "Dabba Stationary",
+            "ISMS"
+        ]
+    },
+    {
+        "id": 25,
+        "altitude": 1518.69,
+        "lat": 27.61878555614962,
+        "lon": 85.53871661424638,
+        "neighbours": [
+            {
+                "id": 24,
+                "cost": 19
+            },
+            {
+                "id": 28,
+                "cost": 27
+            },
+            {
+                "id": 23,
+                "cost": 32
+            },
+            {
+                "id": 26,
+                "cost": 36
+            },
+            {
+                "id": 27,
+                "cost": 45
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 26,
+        "altitude": 1513.87,
+        "lat": 27.618493236951814,
+        "lon": 85.53854763507843,
+        "neighbours": [
+            {
+                "id": 25,
+                "cost": 36
+            },
+            {
+                "id": 23,
+                "cost": 37
+            },
+            {
+                "id": 28,
+                "cost": 25
+            },
+            {
+                "id": 27,
+                "cost": 19
+            },
+            {
+                "id": 29,
+                "cost": 40
+            },
+            {
+                "id": 30,
+                "cost": 49
+            }
+        ],
+        "labels": [
+            "KU Fountain"
+        ]
+    },
+    {
+        "id": 27,
+        "altitude": 1513.8,
+        "lat": 27.618539580291323,
+        "lon": 85.53835585713388,
+        "neighbours": [
+            {
+                "id": 26,
+                "cost": 19
+            },
+            {
+                "id": 23,
+                "cost": 28
+            },
+            {
+                "id": 25,
+                "cost": 45
+            },
+            {
+                "id": 55,
+                "cost": 62
+            }
+        ],
+        "labels": [
+            "KU Cafe"
+        ]
+    },
+    {
+        "id": 28,
+        "altitude": 1514.1,
+        "lat": 27.618552651486105,
+        "lon": 85.53879976272583,
+        "neighbours": [
+            {
+                "id": 23,
+                "cost": 49
+            },
+            {
+                "id": 25,
+                "cost": 27
+            },
+            {
+                "id": 14,
+                "cost": 62
+            },
+            {
+                "id": 41,
+                "cost": 43
+            },
+            {
+                "id": 26,
+                "cost": 25
+            },
+            {
+                "id": 13,
+                "cost": 74
+            },
+            {
+                "id": 30,
+                "cost": 48
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 29,
+        "altitude": 1510.12,
+        "lat": 27.618139125658963,
+        "lon": 85.53864419460298,
+        "neighbours": [
+            {
+                "id": 30,
+                "cost": 16
+            },
+            {
+                "id": 56,
+                "cost": 88
+            },
+            {
+                "id": 26,
+                "cost": 40
+            }
+        ],
+        "labels": [
+            "KU Park",
+            "25 Lakh Stone",
+            "Semicircle Park"
+        ]
+    },
+    {
+        "id": 30,
+        "altitude": 1511.85,
+        "lat": 27.618116548054473,
+        "lon": 85.53880512714387,
+        "neighbours": [
+            {
+                "id": 26,
+                "cost": 49
+            },
+            {
+                "id": 29,
+                "cost": 16
+            },
+            {
+                "id": 28,
+                "cost": 48
+            },
+            {
+                "id": 31,
+                "cost": 25
+            }
+        ],
+        "labels": [
+            "Girls Hostel"
+        ]
+    },
+    {
+        "id": 31,
+        "altitude": 1509.79,
+        "lat": 27.61789196005119,
+        "lon": 85.538826584816,
+        "neighbours": [
+            {
+                "id": 32,
+                "cost": 47
+            },
+            {
+                "id": 30,
+                "cost": 25
+            },
+            {
+                "id": 58,
+                "cost": 136
+            }
+        ],
+        "labels": [
+            "KU Bike Parking"
+        ]
+    },
+    {
+        "id": 32,
+        "altitude": 1509.83,
+        "lat": 27.617583002256996,
+        "lon": 85.53916454315187,
+        "neighbours": [
+            {
+                "id": 33,
+                "cost": 47
+            },
+            {
+                "id": 31,
+                "cost": 47
+            }
+        ],
+        "labels": [
+            "Nepal Investment Mega Bank",
+            "Staff Quarters",
+            "Exam Controller Office",
+            "Bus Inquiry Office"
+        ]
+    },
+    {
+        "id": 33,
+        "altitude": 1508.07,
+        "lat": 27.61721225175343,
+        "lon": 85.53941130638123,
+        "neighbours": [
+            {
+                "id": 32,
+                "cost": 47
+            },
+            {
+                "id": 34,
+                "cost": 49
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 34,
+        "altitude": 1499.01,
+        "lat": 27.617274043591202,
+        "lon": 85.53989946842195,
+        "neighbours": [
+            {
+                "id": 33,
+                "cost": 49
+            },
+            {
+                "id": 35,
+                "cost": 52
+            }
+        ],
+        "labels": [
+            "AKUA",
+            "aqua"
+        ]
+    },
+    {
+        "id": 35,
+        "altitude": 1495.25,
+        "lat": 27.617716091875195,
+        "lon": 85.54008185863496,
+        "neighbours": [
+            {
+                "id": 34,
+                "cost": 52
+            },
+            {
+                "id": 36,
+                "cost": 52
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 36,
+        "altitude": 1493.95,
+        "lat": 27.618177151087572,
+        "lon": 85.53995311260223,
+        "neighbours": [
+            {
+                "id": 35,
+                "cost": 52
+            },
+            {
+                "id": 37,
+                "cost": 54
+            }
+        ],
+        "labels": [
+            "Department of Environmental Science and Engineering",
+            "Waste Management"
+        ]
+    },
+    {
+        "id": 37,
+        "altitude": 1486.66,
+        "lat": 27.618663162434125,
+        "lon": 85.53988203406337,
+        "neighbours": [
+            {
+                "id": 36,
+                "cost": 54
+            },
+            {
+                "id": 38,
+                "cost": 34
+            },
+            {
+                "id": 46,
+                "cost": 118
+            }
+        ],
+        "labels": [
+            "WEIR",
+            "School of Science Project Lab",
+            "Civil Engineering Lab"
+        ]
+    },
+    {
+        "id": 38,
+        "altitude": 1489.6,
+        "lat": 27.618367278032558,
+        "lon": 85.53979620337486,
+        "neighbours": [
+            {
+                "id": 37,
+                "cost": 34
+            },
+            {
+                "id": 39,
+                "cost": 25
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 39,
+        "altitude": 1498.86,
+        "lat": 27.618461153089928,
+        "lon": 85.53957358002664,
+        "neighbours": [
+            {
+                "id": 38,
+                "cost": 25
+            },
+            {
+                "id": 40,
+                "cost": 25
+            }
+        ],
+        "labels": [
+            "Gol Ghar",
+            "Golo Ghar",
+            "SHEDS",
+            "Department of Mathematics",
+            "Department of Chemistry"
+        ]
+    },
+    {
+        "id": 40,
+        "altitude": 1504.79,
+        "lat": 27.61857166413026,
+        "lon": 85.5393496155739,
+        "neighbours": [
+            {
+                "id": 41,
+                "cost": 26
+            },
+            {
+                "id": 43,
+                "cost": 64
+            },
+            {
+                "id": 39,
+                "cost": 25
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 41,
+        "altitude": 1511.62,
+        "lat": 27.61874515435574,
+        "lon": 85.53918600082399,
+        "neighbours": [
+            {
+                "id": 42,
+                "cost": 48
+            },
+            {
+                "id": 40,
+                "cost": 26
+            },
+            {
+                "id": 28,
+                "cost": 43
+            }
+        ],
+        "labels": [
+            "Block: 06",
+            "UMN Science Block",
+            "Department of Physics",
+            "Dean Office SoS",
+            "SoS Account Section"
+        ]
+    },
+    {
+        "id": 42,
+        "altitude": 1511.5,
+        "lat": 27.619113523101213,
+        "lon": 85.53945422172546,
+        "neighbours": [
+            {
+                "id": 43,
+                "cost": 15
+            },
+            {
+                "id": 13,
+                "cost": 32
+            },
+            {
+                "id": 41,
+                "cost": 48
+            }
+        ],
+        "labels": [
+            "Department of Biotechnology",
+            "Block No: 07"
+        ]
+    },
+    {
+        "id": 43,
+        "altitude": 1506.78,
+        "lat": 27.61910401682659,
+        "lon": 85.53960442543031,
+        "neighbours": [
+            {
+                "id": 44,
+                "cost": 23
+            },
+            {
+                "id": 40,
+                "cost": 64
+            },
+            {
+                "id": 42,
+                "cost": 15
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 44,
+        "altitude": 1505.64,
+        "lat": 27.619310778113576,
+        "lon": 85.53964734077455,
+        "neighbours": [
+            {
+                "id": 46,
+                "cost": 45
+            },
+            {
+                "id": 43,
+                "cost": 23
+            },
+            {
+                "id": 45,
+                "cost": 28
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 45,
+        "altitude": 1506.23,
+        "lat": 27.619522292129627,
+        "lon": 85.53947567939758,
+        "neighbours": [
+            {
+                "id": 46,
+                "cost": 26
+            },
+            {
+                "id": 51,
+                "cost": 47
+            },
+            {
+                "id": 44,
+                "cost": 28
+            },
+            {
+                "id": 9,
+                "cost": 34
+            }
+        ],
+        "labels": [
+            "Electronics and Electrical Engineering Block",
+            "Block No: 08",
+            "Information and Research Processing Research Lab",
+            "IRPRL"
+        ]
+    },
+    {
+        "id": 46,
+        "altitude": 1494.04,
+        "lat": 27.6197,
+        "lon": 85.5396,
+        "neighbours": [
+            {
+                "id": 45,
+                "cost": 26
+            },
+            {
+                "id": 44,
+                "cost": 45
+            },
+            {
+                "id": 47,
+                "cost": 48
+            },
+            {
+                "id": 37,
+                "cost": 118
+            }
+        ],
+        "labels": [
+            "Electronics and Electrical Lab",
+            "Turbine Testing Lab",
+            "Power System Lab",
+            "High Voltage Lab"
+        ]
+    },
+    {
+        "id": 47,
+        "altitude": 1496.03,
+        "lat": 27.61998572028717,
+        "lon": 85.53922355175018,
+        "neighbours": [
+            {
+                "id": 46,
+                "cost": 48
+            },
+            {
+                "id": 48,
+                "cost": 44
+            }
+        ],
+        "labels": [
+            "Robotics Club Lab",
+            "KU Supercomputer"
+        ]
+    },
+    {
+        "id": 48,
+        "altitude": 1501.91,
+        "lat": 27.6201,
+        "lon": 85.5388,
+        "neighbours": [
+            {
+                "id": 47,
+                "cost": 44
+            },
+            {
+                "id": 3,
+                "cost": 50
+            },
+            {
+                "id": 2,
+                "cost": 74
+            },
+            {
+                "id": 51,
+                "cost": 47
+            },
+            {
+                "id": 49,
+                "cost": 15
+            }
+        ],
+        "labels": [
+            "Department of Computer Science and Engineering",
+            "DOCSE",
+            "Department of Geomatics Engineering",
+            "Block: 09",
+            "Dean Office SOE",
+            "Active Learning Lab"
+        ]
+    },
+    {
+        "id": 49,
+        "altitude": 1505.3,
+        "lat": 27.619979778912963,
+        "lon": 85.53873538970947,
+        "neighbours": [
+            {
+                "id": 48,
+                "cost": 15
+            },
+            {
+                "id": 50,
+                "cost": 6
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 50,
+        "altitude": 1506.14,
+        "lat": 27.61998690856199,
+        "lon": 85.53866967558861,
+        "neighbours": [
+            {
+                "id": 49,
+                "cost": 6
+            },
+            {
+                "id": 4,
+                "cost": 23
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 51,
+        "altitude": 1501.87,
+        "lat": 27.6198835286056,
+        "lon": 85.53921818733217,
+        "neighbours": [
+            {
+                "id": 45,
+                "cost": 47
+            },
+            {
+                "id": 48,
+                "cost": 47
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 52,
+        "altitude": 1512.76,
+        "lat": 27.619626860705736,
+        "lon": 85.53839206695557,
+        "neighbours": [
+            {
+                "id": 19,
+                "cost": 17
+            },
+            {
+                "id": 6,
+                "cost": 30
+            },
+            {
+                "id": 5,
+                "cost": 32
+            },
+            {
+                "id": 53,
+                "cost": 13
+            },
+            {
+                "id": 7,
+                "cost": 15
+            }
+        ],
+        "labels": [
+            "KU Corner",
+            "KU Museum"
+        ]
+    },
+    {
+        "id": 53,
+        "altitude": 1513.07,
+        "lat": 27.61954130460544,
+        "lon": 85.53830087184907,
+        "neighbours": [
+            {
+                "id": 5,
+                "cost": 40
+            },
+            {
+                "id": 83,
+                "cost": 24
+            },
+            {
+                "id": 54,
+                "cost": 27
+            },
+            {
+                "id": 52,
+                "cost": 13
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 54,
+        "altitude": 1514.2,
+        "lat": 27.619294142162392,
+        "lon": 85.53827404975893,
+        "neighbours": [
+            {
+                "id": 53,
+                "cost": 27
+            },
+            {
+                "id": 55,
+                "cost": 22
+            },
+            {
+                "id": 20,
+                "cost": 11
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 55,
+        "altitude": 1514.3,
+        "lat": 27.61909569883562,
+        "lon": 85.53826600313188,
+        "neighbours": [
+            {
+                "id": 84,
+                "cost": 23
+            },
+            {
+                "id": 54,
+                "cost": 22
+            },
+            {
+                "id": 27,
+                "cost": 62
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 56,
+        "altitude": 1492.18,
+        "lat": 27.618167644731656,
+        "lon": 85.53776979446413,
+        "neighbours": [
+            {
+                "id": 29,
+                "cost": 88
+            },
+            {
+                "id": 57,
+                "cost": 13
+            },
+            {
+                "id": 58,
+                "cost": 58
+            }
+        ],
+        "labels": [
+            "KU Mesh",
+            "Canteen: 02"
+        ]
+    },
+    {
+        "id": 57,
+        "altitude": 1491.61,
+        "lat": 27.61812961929974,
+        "lon": 85.53763568401338,
+        "neighbours": [
+            {
+                "id": 56,
+                "cost": 13
+            },
+            {
+                "id": 58,
+                "cost": 48
+            },
+            {
+                "id": 85,
+                "cost": 107
+            },
+            {
+                "id": 72,
+                "cost": 49
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 58,
+        "altitude": 1488.01,
+        "lat": 27.617716091875195,
+        "lon": 85.53746938705446,
+        "neighbours": [
+            {
+                "id": 31,
+                "cost": 136
+            },
+            {
+                "id": 56,
+                "cost": 58
+            },
+            {
+                "id": 57,
+                "cost": 48
+            },
+            {
+                "id": 59,
+                "cost": 46
+            },
+            {
+                "id": 62,
+                "cost": 47
+            }
+        ],
+        "labels": [
+            "Engineering Drawing Lab",
+            "KU International Hostel",
+            "KU Girls Hostel New"
+        ]
+    },
+    {
+        "id": 59,
+        "altitude": 1487.03,
+        "lat": 27.61729780967336,
+        "lon": 85.53750693798065,
+        "neighbours": [
+            {
+                "id": 58,
+                "cost": 46
+            },
+            {
+                "id": 60,
+                "cost": 115
+            },
+            {
+                "id": 61,
+                "cost": 68
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 60,
+        "altitude": 1479.6,
+        "lat": 27.616261603701552,
+        "lon": 85.53756058216095,
+        "neighbours": [
+            {
+                "id": 59,
+                "cost": 115
+            }
+        ],
+        "labels": [
+            "Department of Law",
+            "KU Law Block"
+        ]
+    },
+    {
+        "id": 61,
+        "altitude": 1487.11,
+        "lat": 27.617221758192294,
+        "lon": 85.53681492805482,
+        "neighbours": [
+            {
+                "id": 62,
+                "cost": 44
+            },
+            {
+                "id": 59,
+                "cost": 68
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 62,
+        "altitude": 1490.13,
+        "lat": 27.617583002256996,
+        "lon": 85.53700804710388,
+        "neighbours": [
+            {
+                "id": 61,
+                "cost": 44
+            },
+            {
+                "id": 58,
+                "cost": 47
+            },
+            {
+                "id": 63,
+                "cost": 55
+            },
+            {
+                "id": 65,
+                "cost": 39
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 63,
+        "altitude": 1492.88,
+        "lat": 27.61770658547928,
+        "lon": 85.53646087646486,
+        "neighbours": [
+            {
+                "id": 64,
+                "cost": 60
+            },
+            {
+                "id": 62,
+                "cost": 55
+            }
+        ],
+        "labels": [
+            "KU Boys Hostel",
+            "Social hall",
+            "Indoor Games Hall"
+        ]
+    },
+    {
+        "id": 64,
+        "altitude": 1487.09,
+        "lat": 27.6175,
+        "lon": 85.5359,
+        "neighbours": [
+            {
+                "id": 63,
+                "cost": 60
+            }
+        ],
+        "labels": [
+            "KU Gym"
+        ]
+    },
+    {
+        "id": 65,
+        "altitude": 1484.24,
+        "lat": 27.61792998556562,
+        "lon": 85.53697049617769,
+        "neighbours": [
+            {
+                "id": 62,
+                "cost": 39
+            },
+            {
+                "id": 66,
+                "cost": 43
+            },
+            {
+                "id": 72,
+                "cost": 31
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 66,
+        "altitude": 1483.47,
+        "lat": 27.618052380100554,
+        "lon": 85.53655073046687,
+        "neighbours": [
+            {
+                "id": 65,
+                "cost": 43
+            },
+            {
+                "id": 70,
+                "cost": 30
+            },
+            {
+                "id": 67,
+                "cost": 61
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 67,
+        "altitude": 1477.02,
+        "lat": 27.618091593854643,
+        "lon": 85.53593516349792,
+        "neighbours": [
+            {
+                "id": 68,
+                "cost": 83
+            },
+            {
+                "id": 66,
+                "cost": 61
+            },
+            {
+                "id": 71,
+                "cost": 75
+            },
+            {
+                "id": 70,
+                "cost": 50
+            }
+        ],
+        "labels": [
+            "Cricket Net Practice "
+        ]
+    },
+    {
+        "id": 68,
+        "altitude": 1472.06,
+        "lat": 27.61766380668735,
+        "lon": 85.53523778915405,
+        "neighbours": [
+            {
+                "id": 67,
+                "cost": 83
+            },
+            {
+                "id": 69,
+                "cost": 57
+            }
+        ],
+        "labels": [
+            "NTIC",
+            "Nepal Technology Innovation Center"
+        ]
+    },
+    {
+        "id": 69,
+        "altitude": 1471.02,
+        "lat": 27.617342965215254,
+        "lon": 85.53477913141252,
+        "neighbours": [
+            {
+                "id": 68,
+                "cost": 57
+            }
+        ],
+        "labels": [
+            "Mechanical Workshop"
+        ]
+    },
+    {
+        "id": 70,
+        "altitude": 1477.52,
+        "lat": 27.618281720948172,
+        "lon": 85.5363965034485,
+        "neighbours": [
+            {
+                "id": 66,
+                "cost": 30
+            },
+            {
+                "id": 67,
+                "cost": 50
+            },
+            {
+                "id": 71,
+                "cost": 31
+            },
+            {
+                "id": 73,
+                "cost": 69
+            },
+            {
+                "id": 72,
+                "cost": 75
+            }
+        ],
+        "labels": [
+            "KU Basketball Court"
+        ]
+    },
+    {
+        "id": 71,
+        "altitude": 1481.67,
+        "lat": 27.618543145162782,
+        "lon": 85.5365037918091,
+        "neighbours": [
+            {
+                "id": 67,
+                "cost": 75
+            },
+            {
+                "id": 70,
+                "cost": 31
+            },
+            {
+                "id": 73,
+                "cost": 49
+            },
+            {
+                "id": 74,
+                "cost": 73
+            },
+            {
+                "id": 76,
+                "cost": 124
+            },
+            {
+                "id": 72,
+                "cost": 75
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 72,
+        "altitude": 1481.28,
+        "lat": 27.618167644731656,
+        "lon": 85.53714752197267,
+        "neighbours": [
+            {
+                "id": 57,
+                "cost": 49
+            },
+            {
+                "id": 65,
+                "cost": 31
+            },
+            {
+                "id": 73,
+                "cost": 50
+            },
+            {
+                "id": 70,
+                "cost": 75
+            },
+            {
+                "id": 71,
+                "cost": 75
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 73,
+        "altitude": 1481.23,
+        "lat": 27.6186,
+        "lon": 85.537,
+        "neighbours": [
+            {
+                "id": 72,
+                "cost": 50
+            },
+            {
+                "id": 70,
+                "cost": 69
+            },
+            {
+                "id": 71,
+                "cost": 49
+            },
+            {
+                "id": 74,
+                "cost": 56
+            }
+        ],
+        "labels": [
+            "KU Football Ground",
+            "Ground",
+            "Volleyball Ground",
+            "Cricket Pitch"
+        ]
+    },
+    {
+        "id": 74,
+        "altitude": 1481.22,
+        "lat": 27.6191,
+        "lon": 85.5369,
+        "neighbours": [
+            {
+                "id": 71,
+                "cost": 73
+            },
+            {
+                "id": 73,
+                "cost": 56
+            },
+            {
+                "id": 75,
+                "cost": 50
+            },
+            {
+                "id": 85,
+                "cost": 84
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 75,
+        "altitude": 1481.03,
+        "lat": 27.6195508108421,
+        "lon": 85.53682565689088,
+        "neighbours": [
+            {
+                "id": 74,
+                "cost": 50
+            },
+            {
+                "id": 76,
+                "cost": 31
+            },
+            {
+                "id": 77,
+                "cost": 42
+            }
+        ],
+        "labels": [
+            "Swimming Pool"
+        ]
+    },
+    {
+        "id": 76,
+        "altitude": 1478.69,
+        "lat": 27.61966488561775,
+        "lon": 85.53653329610826,
+        "neighbours": [
+            {
+                "id": 75,
+                "cost": 31
+            },
+            {
+                "id": 71,
+                "cost": 124
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 77,
+        "altitude": 1486.05,
+        "lat": 27.61970291051658,
+        "lon": 85.53722262382509,
+        "neighbours": [
+            {
+                "id": 75,
+                "cost": 42
+            },
+            {
+                "id": 78,
+                "cost": 23
+            }
+        ],
+        "labels": [
+            "Multipurpose Hall",
+            "KU Green Hydrogen Lab"
+        ]
+    },
+    {
+        "id": 78,
+        "altitude": 1490.55,
+        "lat": 27.619714793294737,
+        "lon": 85.53746134042741,
+        "neighbours": [
+            {
+                "id": 79,
+                "cost": 27
+            },
+            {
+                "id": 77,
+                "cost": 23
+            },
+            {
+                "id": 86,
+                "cost": 31
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 79,
+        "altitude": 1495.6,
+        "lat": 27.6199453189361,
+        "lon": 85.5375310778618,
+        "neighbours": [
+            {
+                "id": 78,
+                "cost": 27
+            },
+            {
+                "id": 81,
+                "cost": 37
+            },
+            {
+                "id": 80,
+                "cost": 42
+            }
+        ],
+        "labels": [
+            "23A"
+        ]
+    },
+    {
+        "id": 80,
+        "altitude": 1501.67,
+        "lat": 27.620149702088533,
+        "lon": 85.53788512945177,
+        "neighbours": [
+            {
+                "id": 87,
+                "cost": 38
+            },
+            {
+                "id": 79,
+                "cost": 42
+            },
+            {
+                "id": 81,
+                "cost": 28
+            }
+        ],
+        "labels": [
+            "KU TTC",
+            "KU Technical Training Center",
+            "KU Automobile Lab"
+        ]
+    },
+    {
+        "id": 81,
+        "altitude": 1502.43,
+        "lat": 27.619897787915743,
+        "lon": 85.53790390491486,
+        "neighbours": [
+            {
+                "id": 82,
+                "cost": 16
+            },
+            {
+                "id": 79,
+                "cost": 37
+            },
+            {
+                "id": 86,
+                "cost": 41
+            },
+            {
+                "id": 2,
+                "cost": 45
+            },
+            {
+                "id": 80,
+                "cost": 28
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 82,
+        "altitude": 1506.48,
+        "lat": 27.619904917570093,
+        "lon": 85.53806483745576,
+        "neighbours": [
+            {
+                "id": 2,
+                "cost": 41
+            },
+            {
+                "id": 5,
+                "cost": 23
+            },
+            {
+                "id": 81,
+                "cost": 16
+            },
+            {
+                "id": 83,
+                "cost": 43
+            }
+        ],
+        "labels": [
+            "Block No 10",
+            "Department of Management",
+            "Department of Architecture",
+            "KU Chinese Hall"
+        ]
+    },
+    {
+        "id": 83,
+        "altitude": 1509.4,
+        "lat": 27.61951040933055,
+        "lon": 85.53805679082873,
+        "neighbours": [
+            {
+                "id": 82,
+                "cost": 43
+            },
+            {
+                "id": 53,
+                "cost": 24
+            },
+            {
+                "id": 86,
+                "cost": 35
+            },
+            {
+                "id": 84,
+                "cost": 44
+            }
+        ],
+        "labels": [
+            "Department of Civil Engineering"
+        ]
+    },
+    {
+        "id": 84,
+        "altitude": 1509.2,
+        "lat": 27.61910876996402,
+        "lon": 85.53803265094759,
+        "neighbours": [
+            {
+                "id": 83,
+                "cost": 44
+            },
+            {
+                "id": 55,
+                "cost": 23
+            },
+            {
+                "id": 85,
+                "cost": 30
+            }
+        ],
+        "labels": [
+            "Department of Pharmacy"
+        ]
+    },
+    {
+        "id": 85,
+        "altitude": 1497.92,
+        "lat": 27.619089757413093,
+        "lon": 85.53774297237398,
+        "neighbours": [
+            {
+                "id": 84,
+                "cost": 30
+            },
+            {
+                "id": 74,
+                "cost": 84
+            },
+            {
+                "id": 86,
+                "cost": 52
+            },
+            {
+                "id": 57,
+                "cost": 107
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 86,
+        "altitude": 1499.47,
+        "lat": 27.619562693636773,
+        "lon": 85.53771883249284,
+        "neighbours": [
+            {
+                "id": 85,
+                "cost": 52
+            },
+            {
+                "id": 78,
+                "cost": 31
+            },
+            {
+                "id": 83,
+                "cost": 35
+            },
+            {
+                "id": 81,
+                "cost": 41
+            }
+        ],
+        "labels": null
+    },
+    {
+        "id": 87,
+        "altitude": 1495.04,
+        "lat": 27.620472911876575,
+        "lon": 85.53801923990251,
+        "neighbours": [
+            {
+                "id": 80,
+                "cost": 38
+            },
+            {
+                "id": 2,
+                "cost": 23
+            },
+            {
+                "id": 1,
+                "cost": 31
+            }
+        ],
+        "labels": [
+            "KU Parking"
+        ]
+    }
+]
